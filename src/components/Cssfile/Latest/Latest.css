@@ -1,0 +1,11 @@
+.tabmenu{
+    border: 1px solid black;
+}
+.img{
+    height: 320px;
+    width: 320px;
+    
+}
+.body{
+    position: relative;
+}

@@ -1,0 +1,118 @@
+/* .homebody{
+    overflow: hidden;
+} */
+.littlepart{
+    margin-top: 150px;
+}
+.little1{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 400px;
+    background-color:#FDF5EE;
+
+}
+.little2{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 400px;
+    background-color:#FDF5EE;
+}
+.little3{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 400px;
+    background-color:#FDF5EE;
+}
+.little1info{
+    margin-top: 60px;
+}
+.img3{
+    padding: 25px 25px;
+    border-radius: 70px;
+    
+}
+.img3:hover{
+    background-color: rgba(225, 127, 7, 0.814);
+}
+.abouth1{
+    font-weight: bold;
+    font-size: 60px;
+    color: chocolate;
+}
+.crdimg{
+    position: absolute;
+}
+.crdinfo{
+    position: relative;
+    height: 385px;
+    width: 270px;
+    padding-top: 320px;
+    
+    
+}
+.info{
+    color: aqua;
+    
+}
+.abouth2{
+    font-weight: bold;
+    font-size: 60px;
+    
+}
+.abouth3{
+    font-weight: bold;
+    font-size: 60px;
+    
+}
+.time{
+    font-size: 40px;
+    padding: 10px 10px;
+}
+.flashsale{
+    background-image: url("/src/assests/flashsale.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.shippingpart{
+    background-image: url("/src/assests/shipping.jpg");
+    background-size: cover;
+    height: 300px;
+}
+.free{
+    padding-top: 50px;
+    
+}
+.free2{
+    padding-top: 50px;
+    margin-left: 220px;
+    
+}
+.free3{
+    padding-top: 50px;
+    margin-left: 220px;
+    
+}
+.truck{
+    padding: 20px 20px;
+    font-size: 40px;
+    border: 1px solid;
+    border-radius: 50px;
+    color: rgb(249, 22, 6);
+}
+
+
+@media screen and  (max-width:980px) {
+    .aboutcompany{
+        margin-top: 160px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    
+    .shippingpart{
+        display: none;
+    }
+
+
+} 

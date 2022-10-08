@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Abyssinica+SIL&family=Alkalami&family=Dancing+Script:wght@600&family=Kanit:wght@600&family=Lobster&family=Noto+Sans+Mono:wght@300;400;800&family=Oswald:wght@300&family=Pacifico&family=Permanent+Marker&family=Rubik+Dirt&family=Rubik+Distressed&family=Secular+One&family=Silkscreen&display=swap');
+
+.navstyle{
+    text-decoration: none;
+    color: blueviolet;
+    font-weight: bolder;
+    margin: 15px 15px;
+}
+.logicon{
+    margin: 15px 15px;
+    font-size: 20px;
+    color: rgb(220, 107, 31);
+    border: 1px solid red;
+    padding: 3px 10px;
+    border-radius: 50px;
+    background-color: antiquewhite;
+}
+
+.cart-total{
+    position: relative;
+    background-color: rgb(7, 235, 247);
+    border-radius: 50px;
+    margin-left: 10px;
+    color: black;
+    padding: 2px 2px;
+    
+   
+}
+.carticon{
+    margin: 15px 15px;
+    font-size: 20px;
+    color: rgb(220, 107, 31);
+    border: 1px solid red;
+    padding: 5px 8px;
+    border-radius: 50px;
+    position: absolute;
+    background-color: antiquewhite;
+    
+}
+.logo{
+    font-weight: bold;
+    font-size: 40px;
+    padding: 15px 5px;
+    font-family: 'Alkalami', serif;
+    color: rgb(186, 88, 88);
+}

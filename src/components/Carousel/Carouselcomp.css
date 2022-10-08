@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Abyssinica+SIL&family=Alkalami&family=Anton&family=Dancing+Script:wght@600&family=Kanit:wght@600&family=Lobster&family=Noto+Sans+Mono:wght@300;400;800&family=Oswald:wght@300&family=Pacifico&family=Permanent+Marker&family=Rubik+Dirt&family=Rubik+Distressed&family=Secular+One&family=Silkscreen&display=swap');
+
+.carinfo{
+    
+    margin-right: 720px;
+    
+}
+.carinfo2{
+   
+    margin-left: 720px;
+}
+
+.fresh{
+    font-size: 100px;
+    letter-spacing: 23px;
+    color: rgb(237, 145, 8);
+    font-family: 'Secular One', sans-serif;
+}
+.organic{
+    font-size: 90px;
+}
+.honey{
+    font-size: 100px;
+    letter-spacing: 22px;
+    color: rgb(237, 145, 8);
+    font-family: 'Peralta', cursive;
+}
+.carbtn{
+height: 50px;
+border: none;
+color: white;
+width: 170px;
+background-color: rgb(240, 109, 10);
+}
